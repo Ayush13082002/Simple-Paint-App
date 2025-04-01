@@ -17,6 +17,6 @@ This is a simple paint app made with HTML,and JavaScript. It lets users draw cir
 - Press Reset to clear the canvas.  
 
 ### Live Demo  
-🔗 [Try it here](#) 
+🔗 [https://ayush13082002.github.io/Simple-Paint-App/](#) 
 
 Fork the repo and have fun! 🚀
